@@ -1,3 +1,11 @@
+cinnamon-control-center (5.4.7+hamonikr1) uma; urgency=medium
+
+  * Add wrap-width into display ui page for bug fix
+   - panels/display/cc-display-settings.ui
+   - bug : http://pms.invesume.com:8090/pages/viewpage.action?pageId=115579958 - no6
+
+  -- HamoniKRTeam <pkg@hamonikr.org>  Thu, 22 Sep 2022 11:52:12 +0900
+
 cinnamon-control-center (5.4.7) vanessa; urgency=medium
 
   [ Eicke Herbertz ]

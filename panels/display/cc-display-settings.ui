@@ -42,6 +42,7 @@
             <property name="visible">True</property>
             <property name="can_focus">False</property>
             <property name="hexpand">True</property>
+            <property name="wrap-width">1</property>                        
             <signal name="notify::active" handler="on_resolution_selection_changed_cb" swapped="no"/>
           </object>
           <packing>
